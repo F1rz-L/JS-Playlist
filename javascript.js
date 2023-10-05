@@ -1,3 +1,3 @@
 function tampil(){
-    document.querySelector("h1").innerHTML = "Javaskript";
+    document.querySelector("h1").innerText = "Belajar Javaskript";
 }
